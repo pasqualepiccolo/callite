@@ -1,0 +1,12 @@
+{
+  "name": "CalLite",
+  "version": "1.0.7",
+  "description": "CalLite CRM",
+  "author": "Pasquale Piccolo <pasqualepiccolo@gmail.com>",
+  "homepage": "https://demo.callite.it",
+  "license": "MIT",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  }
+}
